@@ -1,0 +1,2 @@
+{ "id": 1, "userId": 71, "city": "Lviv", "eventType": "click", "timestamp": 3, "eventSubject": { "type": "article", "id": 1 } }
+{ "id": 2, "userId": 71, "city": "Lviv", "eventType": "click", "timestamp": 15, "eventSubject": { "type": "article", "id": 2 } }
