@@ -13,7 +13,7 @@ import org.apache.beam.sdk.options.PipelineOptionsFactory;
 import org.apache.beam.sdk.transforms.*;
 import org.apache.beam.sdk.values.PCollection;
 
-public class Main {
+public class EventAggregator {
     public static void main(String[] args) {
         EventAggregatorOptions options =
                 PipelineOptionsFactory.fromArgs(args).withValidation().as(EventAggregatorOptions.class);
